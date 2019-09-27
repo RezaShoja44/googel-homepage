@@ -9,19 +9,23 @@ main {
   background-color: white;
   padding-top: 190px;
 }
+
+input,
+button {
+  font-family: "Segoe UI";
+}
+
 input {
   text-align: center;
   width: 560px;
   border-radius: 35px;
   height: 40px;
   margin-top: 30px;
-  font-family: "Segoe UI";
   border: 1px solid #ccc;
 }
 button {
   margin: 25px;
   height: 40px;
-  font-family: "Segoe UI";
   border-radius: 10px;
   border-color: white;
 }
